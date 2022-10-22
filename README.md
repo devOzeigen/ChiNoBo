@@ -1,10 +1,7 @@
 - 👋 Hi, I’m Marc
-- 👀 I’m interested in 🍃
+- 👀 I’m interested in Games, Music and Going Out.
 - 🌱 I’m currently learning Business Information Technology
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on React Projects
 - 📫 How to reach me - marc.trecero@gmail.com
 
-<!---
-ChiNoBo/ChiNoBo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Energetic and outgoing individual who took an interest in making front-end projects with the react JavaScript framework.
