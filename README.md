@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Marc
 - 👀 I’m interested in Games, Music and Going Out.
+- 🎣 Angler in the summer.
 - 🌱 I’m currently learning Business Information Technology
 - 💞️ I’m looking to collaborate on React Projects
 - 📫 How to reach me - marc.trecero@gmail.com
